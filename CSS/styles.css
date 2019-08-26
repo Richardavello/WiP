@@ -1,11 +1,11 @@
 body {
-  background-color: #fff6da;
+  background-color: #042f4b;
 }
 
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: #ed1250;
   border-width: 5px;
   width: 5%;
 }
@@ -16,4 +16,20 @@ h1 {
 
 h3 {
  color: #ff935c;
+}
+
+p {
+  color: #fff6da;
+}
+
+a {
+  color: #ed1250;
+}
+
+table {
+  color: #fff6da;
+}
+
+ul {
+  color: #fff6da;
 }
